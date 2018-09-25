@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/kunli0281/FerdePipelineInitialize/_apis/build/status/ferdeli.pipelines-javascript)](https://dev.azure.com/kunli0281/FerdePipelineInitialize/_build/latest?definitionId=1)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
